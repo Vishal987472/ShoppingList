@@ -1,0 +1,29 @@
+This is the a simple Android application serving the purpose of a shopping list. I modelled it after how I would use a piece of paper and kept it as simple as possible.
+
+<b>Core features:</b>
+
+* Simple and intuitive to use
+* Dark and Light user interface mode
+* No permissions required
+* No tracking or sharing any data
+* No ads
+
+<b>Languages:</b>
+
+* Azerbaijani
+* Bengali
+* Czech
+* English
+* Finnish
+* French
+* Georgian
+* German
+* Hebrew
+* Italian
+* Lithuanian
+* Norwegian Bokmal
+* Polish
+* Portuguese
+* Russian
+* Turkish
+* Ukrainian
